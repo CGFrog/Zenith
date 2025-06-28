@@ -5,5 +5,5 @@
 class Renderable {
 public:
     virtual ~Renderable() = default;
-    virtual void draw(const glm::mat4& viewProj) = 0;
+    virtual void draw(const glm::mat4& parentTransform = glm::mat4(1.0f)) = 0;
 };

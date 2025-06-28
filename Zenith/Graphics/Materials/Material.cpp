@@ -12,6 +12,10 @@ void Material::unbind() const {
     shader->unbind();
 }
 
+std::shared_ptr<Shader> Material::getShader() {
+    return shader;
+}
+
 void Material::setInt(const std::string& name, int value) {
     shader->setUniform(name, value);
 }

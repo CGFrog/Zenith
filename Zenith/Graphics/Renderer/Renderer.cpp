@@ -9,9 +9,9 @@ void Renderer::clearQueue() {
     renderQueue.clear();
 }
 
-void Renderer::render(const glm::mat4& viewProj) {
+void Renderer::render() {
     for (auto& renderable : renderQueue) {
-        renderable->draw(viewProj);
+        renderable->draw();
     }
     clearQueue();
 }

@@ -10,9 +10,12 @@ Mesh::Mesh(std::shared_ptr<VertexArray> vao,
     material(std::move(material))
 {}
 
-void Mesh::draw(const glm::mat4& viewProj) {
+void Mesh::draw(const glm::mat4& parentTransform) {
+    glm::mat4 modelMatrix = parentTransform * transform.getModelMatrix();
+
     material->bind();
-    material->setMat4("u_ViewProjection", viewProj);
+    material->setMat4("u_Model", modelMatrix);
+
     vertexArray->bind();
     indexBuffer->bind();
 
