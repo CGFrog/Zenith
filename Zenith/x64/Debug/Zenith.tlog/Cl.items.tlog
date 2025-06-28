@@ -1,0 +1,16 @@
+X:\ZenithEngine\Zenith\Zenith\External\stb\stb_img.cpp;X:\ZenithEngine\Zenith\Zenith\x64\Debug\stb_img.obj
+X:\ZenithEngine\Zenith\Zenith\Graphics\Buffers\IndexBuffer.cpp;X:\ZenithEngine\Zenith\Zenith\x64\Debug\IndexBuffer.obj
+X:\ZenithEngine\Zenith\Zenith\Graphics\Buffers\VertexArray.cpp;X:\ZenithEngine\Zenith\Zenith\x64\Debug\VertexArray.obj
+X:\ZenithEngine\Zenith\Zenith\Graphics\Buffers\VertexBuffer.cpp;X:\ZenithEngine\Zenith\Zenith\x64\Debug\VertexBuffer.obj
+X:\ZenithEngine\Zenith\Zenith\Graphics\Camera\Camera.cpp;X:\ZenithEngine\Zenith\Zenith\x64\Debug\Camera.obj
+X:\ZenithEngine\Zenith\Zenith\Graphics\GraphicsEngine.cpp;X:\ZenithEngine\Zenith\Zenith\x64\Debug\GraphicsEngine.obj
+X:\ZenithEngine\Zenith\Zenith\Graphics\Lighting\Light.cpp;X:\ZenithEngine\Zenith\Zenith\x64\Debug\Light.obj
+X:\ZenithEngine\Zenith\Zenith\Graphics\Materials\Material.cpp;X:\ZenithEngine\Zenith\Zenith\x64\Debug\Material.obj
+X:\ZenithEngine\Zenith\Zenith\Graphics\Meshes\Mesh.cpp;X:\ZenithEngine\Zenith\Zenith\x64\Debug\Mesh.obj
+X:\ZenithEngine\Zenith\Zenith\Graphics\Renderer\Renderer.cpp;X:\ZenithEngine\Zenith\Zenith\x64\Debug\Renderer.obj
+X:\ZenithEngine\Zenith\Zenith\Graphics\Shaders\Shader.cpp;X:\ZenithEngine\Zenith\Zenith\x64\Debug\Shader.obj
+X:\ZenithEngine\Zenith\Zenith\Graphics\Textures\Texture2D.cpp;X:\ZenithEngine\Zenith\Zenith\x64\Debug\Texture2D.obj
+X:\ZenithEngine\Zenith\Zenith\Input\InputHandler.cpp;X:\ZenithEngine\Zenith\Zenith\x64\Debug\InputHandler.obj
+X:\ZenithEngine\Zenith\Zenith\main.cpp;X:\ZenithEngine\Zenith\Zenith\x64\Debug\main.obj
+X:\ZenithEngine\Zenith\Zenith\Scene\Components\Transform.cpp;X:\ZenithEngine\Zenith\Zenith\x64\Debug\Transform.obj
+X:\ZenithEngine\Zenith\Zenith\ZenithEngine.cpp;X:\ZenithEngine\Zenith\Zenith\x64\Debug\ZenithEngine.obj
